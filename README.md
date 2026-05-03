@@ -1,6 +1,6 @@
 # SaveGuard ⚔
 
-A simple Windows utility I built because certain games (looking at you, Black Desert) wipe your save file every time they push an update. Tired of losing progress, so I made this.
+A simple Windows utility I built because certain games (Offline Activated Games) wipe your save file every time they push an update. Tired of losing progress, so I made this.
 
 Set your source and destination once. Never touch it again. One click to back up, one click to restore.
 
